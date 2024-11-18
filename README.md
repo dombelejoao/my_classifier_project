@@ -1,3 +1,3 @@
 # my_classifier_project
 
-ML development Dombele Jooa
+ML development Dombele Joao
