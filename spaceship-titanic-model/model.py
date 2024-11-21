@@ -88,4 +88,4 @@ submission = pd.DataFrame({
     'PassengerId': test_ids,
     'Transported': predictions
 })
-submission.to_csv('submission.csv', index=False)
+submission.to_csv('results.csv', index=False)
