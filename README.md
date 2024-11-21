@@ -14,4 +14,7 @@ Group: 972305
 2. Run: `docker-compose up`
 
 ## Resources Used
-- List libraries, frameworks, and references
+https://www.kaggle.com/code/serdargundogdu/spaceship-titanic-a-complete-guide
+https://medium.com/@zaidanici/kaggle-competition-spaceship-titanic-ba63f9539a5e
+https://spaceship-titanic-classification.streamlit.app/
+you.com
